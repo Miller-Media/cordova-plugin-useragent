@@ -1,5 +1,4 @@
 #import <Cordova/CDVPlugin.h>
-#import <UIKit/UIKit.h>
 #import <WebKit/WebKit.h>
 
 @interface UserAgent : CDVPlugin
